@@ -30,8 +30,6 @@ bath: Number of bathrooms (integer)
 
 Example Request:
 
-json
-Copy code
 {
     "total_sqft": 1200,
     "location": "Whitefield",
