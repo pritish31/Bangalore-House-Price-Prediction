@@ -50,9 +50,13 @@ utils.py: Utility functions for preprocessing and prediction logic.
 
 #### Key Features
 Data Cleaning: Handled missing values, converted non-standard formats for square footage, and removed outliers.
+
 Feature Engineering: Engineered features like price_per_sqft and consolidated rare locations into a single category.
+
 Machine Learning Models: Compared Linear Regression, Lasso, and Decision Tree models using GridSearchCV.
+
 API Integration: A Flask API for predicting property prices based on user inputs.
+
 Model Deployment: Serialized the trained model for use in a production environment.
 
 #### Technologies Used
